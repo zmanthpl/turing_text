@@ -100,7 +100,7 @@ cv2.waitKey(0)
            
 
 # 显示绘制的图形
-# print("图形数量",num_shapes)
+print("图形数量",num_shapes)
 #cv2.imshow("Geometric Shapes", canvas)
 # print("请在图像窗口选择模板图形")
 # cv2.waitKey(0)
